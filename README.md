@@ -36,17 +36,18 @@ Here’s what the chatroom looks like in action:
    ![Chatroom Interface](./screenshots/ss4.png)
  
  ![Chatroom Interface](./screenshots/ss11.png)
- ![Chatroom Interface](./screenshots/ss9.png)
+ 
 
 2. **User Joining the Chat**  
    - Screenshot showing the notification when a new user joins the chatroom.  
-   ![User Joining Screenshot](./screenshots/ss13.png)
-
+   ![Chatroom Interface](./screenshots/ss9.png)
 3. **Real-Time Messaging**  
    - Screenshot showing multiple users sending messages in real-time.  
-   ![Real-Time Messaging Screenshot](./screenshots/ss14.png)
+   ![User Joining Screenshot](./screenshots/ss13.png)
 
-
+4.**User Leaving the Chat**
+Screenshot showing the notification when a user leaves the chatroom.
+![Real-Time Messaging Screenshot](./screenshots/ss14.png)
 ---
 
 ## 🛠️ **Installation & Setup** 🚀
