@@ -32,10 +32,11 @@ The chatroom leverages these technologies for real-time communication and a resp
 Here’s what the chatroom looks like in action:
 
 1. **Chatroom Interface**  
-   - Screenshot showing the chatroom with input fields and messages.  
+    
    ![Chatroom Interface](./screenshots/ss4.png)
- ![Chatroom Interface](./screenshots/ss9.png)
+ 
  ![Chatroom Interface](./screenshots/ss11.png)
+ ![Chatroom Interface](./screenshots/ss9.png)
 
 2. **User Joining the Chat**  
    - Screenshot showing the notification when a new user joins the chatroom.  
